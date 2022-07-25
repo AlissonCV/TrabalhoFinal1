@@ -1,11 +1,17 @@
 # Trabalho Final 1 - Aeropêndulo
 
-Integrantes:\n
+Integrantes:
+
 -Alisson Carvalho Vasconcelos (11511EMT016);
+
 -André de Oliveira Águila Favotto (11811EAU013);
+
 -Gabriel Medeiros Sollero (11811EAU006);
+
 -João Victor Luiz de Andrade (11811EAU003);
+
 -Rodrigo Santana Soares (11821EAU013);
+
 -Thiago Fernando Cuevas Mestanza (11821EAU002).
 
 Orientador: Professor Éder Alves de Moura
